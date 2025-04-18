@@ -74,7 +74,7 @@
 
 ## CREATING PULL REQUEST
 
-![creating tom's pull request](/images/creating-pull-request-for-tom.PNG)
+![tom's pull request](/images/creating-pull-request-for-tom.PNG)
 
 ![tom's pull request2](/images/creating-pull-request-for-tom-2.PNG)
 
