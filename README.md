@@ -14,9 +14,9 @@
 
 ![Basic Command](/images/git-commands-1.PNG)
 
-![Basic command](git-command-2.PNG)
+![Basic command](images/git-command-2.PNG)
 
-![Basic command](git-command-3.PNG)
+![Basic command](images/git-command-3.PNG)
 
 ## Tom Branch Workflow
 
