@@ -30,15 +30,15 @@
 
 ## Jerry Branch Workflow  
 
-![Jerry Branch](/image/git-command-3.PNG)
+![Jerry Branch](/images/git-command-3.PNG)
 
-![Jerry Pull Request](/image/merge-jerry.PNG)
+![Jerry Pull Request](/images/merge-jerry.PNG)
 
 ###  Jerry's conflict
 
 ![Jerry conflict](/images/jerry-conflicts.PNG)
 
-![Jerry conflict](/image/conflict-2.PNG)
+![Jerry conflict](/images/conflict-2.PNG)
 
 ## Conflict resolved
 
