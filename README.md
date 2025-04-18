@@ -68,7 +68,7 @@
 
 ## Navigating to github repository
 
-![Navigating to github repository](/images/navigating-to-github-repository)
+![Navigating to github repository](/images/navigating-to-github-repository.PNG)
 
 
 
