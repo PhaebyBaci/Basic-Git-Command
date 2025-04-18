@@ -4,7 +4,7 @@
 
 ## Below is how to create a new repository
 
-![screenshot](/images/New\ Repo\ Dashboard.PNG)
+![screenshot](/images/New_Repo_Dashboard.PNG)
 
 ## Git cloning
 
