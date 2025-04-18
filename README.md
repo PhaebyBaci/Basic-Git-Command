@@ -37,13 +37,14 @@
 ###  Jerry's conflict
 
 ![Jerry conflict](/images/jerry-conflicts.PNG)
+
 ![Jerry conflict](/image/conflict-2.PNG)
 
 ## Conflict resolved
 
 ![Conflict Resolve](/images/conflict-resolved.PNG)
 
-###Jerry merging
+### Jerry merging
 
 ![Jerry Merge](/images/merged-jerry-2.PNG)
 
