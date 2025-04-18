@@ -86,9 +86,15 @@
 
 ## ADDING JERRY'S CONTRIBUTION
 
-![jerry's pull request](/images/jerry_pull_request_create.PNG)
+![Pulling to local](/images/git-pull-origin.PNG)
 
-![merging jerry's branch](/images/jerry_merge_pull_request_success.PNG)
+![jerry's pull request](/images/jerry_pull_request_new.PNG)
+
+## Jerry Merging
+![Jerry Merging](/images/jerry_merge_pull_request_new.PNG)
+
+![Jerry Merge Confirm](/images/jerry_merge_confirm.PNG)
+![Jerry Merged](/images/jerry_merged.PNG)
 
 ## BASIC COMMANDS
 
