@@ -63,3 +63,35 @@
 ## GitHub user dashboard
 
 ![Dashboard](images/github_dashboard_screenshot.PNG)
+
+# GIT BRANCHING AND MERGING
+## Navigating to github repository
+![Navigating to github repository](/images/navigating-to-github-repository)
+
+
+
+## CREATING PULL REQUEST
+
+![creating tom's pull request](/images/creating-pull-request-for-tom.PNG)
+
+![tom's pull request2](/images/creating-pull-request-for-tom-2.PNG)
+
+## MERGING TOM'S BRANCH
+
+![merging tom's branch](/images/Tom_merge_pull_request.PNG)
+
+![merging tom's branch successfully](/images/Tom_merge_pull_request_success.PNG)
+
+## ADDING JERRY'S CONTRIBUTION
+
+![jerry's pull request](/images/jerry_pull_request_create.PNG)
+
+![merging jerry's branch](/images/jerry_merge_pull_request_success.PNG)
+
+## BASIC COMMANDS
+
+![git- check-out-info](/images/git-checkout-contact-info.PNG)
+
+![jerry's commit](/images/jerry_commit.PNG)
+
+![git pull](/images/git-pull-origin.PNG)
