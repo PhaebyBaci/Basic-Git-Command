@@ -40,10 +40,13 @@
 ![Jerry conflict](/image/conflict-2.PNG)
 
 ## Conflict resolved
+
 ![Conflict Resolve](/images/conflict-resolved.PNG)
 
 ###Jerry merging
+
 ![Jerry Merge](/images/merged-jerry-2.PNG)
 
 ## GitHub user dashboard
-![Dashboard](/images/github-dashboard-screenshot.PNG)
+
+![Dashboard](images/github_dashboard_screenshot.PNG)
