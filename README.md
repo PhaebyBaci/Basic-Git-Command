@@ -65,7 +65,9 @@
 ![Dashboard](images/github_dashboard_screenshot.PNG)
 
 # GIT BRANCHING AND MERGING
+
 ## Navigating to github repository
+
 ![Navigating to github repository](/images/navigating-to-github-repository)
 
 
