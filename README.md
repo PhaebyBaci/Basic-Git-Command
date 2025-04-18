@@ -4,46 +4,44 @@
 
 ## Below is how to create a new repository
 
-![screenshot](/images/New_Repo_Dashboard.PNG)
+![Dashboard New Repo](/images/New_Repo_Dashboard.PNG)
 
 ## Git cloning
 
-![screenshot](/images/git-cloning.PNG)
+![Git clone](/images/git-cloning.PNG)
 
 ## Basic git commands
 
-![screenshot](/images/git-commands-1.PNG)
-![screenshot](git-command-2.PNG)
-![screenshot](git-command-3.PNG)
+![Basic Command](/images/git-commands-1.PNG)
+![Basic command](git-command-2.PNG)
+![Basic command](git-command-3.PNG)
 
-## Below is the created branch for Tom
+## Tom Branch Workflow
 
-![screenshot](/images/update-navigation-dashboard.PNG)
+![Tom Branch](/images/update-navigation-dashboard.PNG)
 
-## Below Is TOM'S pull request
-![screenshot](/images/pr-tom.PNG)
+![Tom Pull Request](/images/pr-tom.PNG)
 
-## Below is TOM merged successfully
+### TOM Merging
 
-![screenshot](/images/merge-tom.PNG)
+![Tom Merge](/images/merge-tom.PNG)
 
-## Below is the created branch for JERRY's  
+## Jerry Branch Workflow  
 
-![screenshot](/image/git-command-3.PNG)
+![Jerry Branch](/image/git-command-3.PNG)
 
-## Below is JERRY'S pull request
-![screenshot](/image/merge-jerry.PNG)
+![Jerry Pull Request](/image/merge-jerry.PNG)
 
-##  Jerry's conflict
+###  Jerry's conflict
 
-![screenshot](/images/jerry-conflicts.PNG)
-![Screenshot while solving the conflict](/image/conflict-2.PNG)
+![Jerry conflict](/images/jerry-conflicts.PNG)
+![Jerry conflict](/image/conflict-2.PNG)
 
 ## Conflict resolved
-![screenshot](/images/conflict-resolved.PNG)
+![Conflict Resolve](/images/conflict-resolved.PNG)
 
-Below is Jerry's merged successfully
-![screenshot](/images/merged-jerry-2.PNG)
+###Jerry merging
+![Jerry Merge](/images/merged-jerry-2.PNG)
 
 ## GitHub user dashboard
-![screenshot](/images/github-dashboard-screenshot.PNG)
+![Dashboard](/images/github-dashboard-screenshot.PNG)
