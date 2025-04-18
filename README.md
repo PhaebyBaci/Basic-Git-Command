@@ -1,11 +1,11 @@
 # Basic-Git-Command
 
-## learning the basic git and how to clone it
 
-## Below is how to create a new repository
+## Git Repository setup
 
 ![Dashboard New Repo](/images/New_Repo_Dashboard.PNG)
 
+## Git basic commands
 ## Git cloning
 
 ![Git clone](/images/git-cloning.PNG)
@@ -14,7 +14,11 @@
 
 ![Basic Command](/images/git-commands-1.PNG)
 
+## Git Repository initialization
+
 ![Basic command](images/git-command-2.PNG)
+
+## git commit and git push command
 
 ![Basic command](images/git-command-3.PNG)
 
@@ -47,6 +51,14 @@
 ### Jerry merging
 
 ![Jerry Merge](/images/merged-jerry-2.PNG)
+
+## GitHub Repository Submission
+
+![Branches](images/Branches_showcase.PNG)
+
+![Tom Branch and commit](images/git-command-2.PNG)
+
+![Jerry Branch and commit](images/git-command-3.PNG)
 
 ## GitHub user dashboard
 
