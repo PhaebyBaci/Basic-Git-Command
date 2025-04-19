@@ -86,7 +86,7 @@
 
 ## ADDING JERRY'S CONTRIBUTION
 
-![Pulling to local](/images/git-pull-origin.PNG)
+![Pulling to local](/images/git-commit.PNG)
 
 ![jerry's pull request](/images/jerry_pull_request_new.PNG)
 
@@ -94,12 +94,13 @@
 ![Jerry Merging](/images/jerry_merge_pull_request_new.PNG)
 
 ![Jerry Merge Confirm](/images/jerry_merge_confirm.PNG)
+
 ![Jerry Merged](/images/jerry_merged.PNG)
 
 ## BASIC COMMANDS
 
-![git- check-out-info](/images/git-checkout-contact-info.PNG)
+![git checkout command](/images/git-checkout-contact-info.PNG)
 
-![jerry's commit](/images/jerry_commit.PNG)
+![jerry commit command](/images/jerry_commit.PNG)
 
 ![git pull](/images/git-pull-origin.PNG)
